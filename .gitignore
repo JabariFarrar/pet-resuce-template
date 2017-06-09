@@ -1,0 +1,5 @@
+.DS_Store
+/.idea
+/vendor
+#ignore mail configuration data below
+**/php/mail-config.php
